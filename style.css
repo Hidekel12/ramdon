@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #fdb877;
+
+}
+header{
+
+
+    background: #ffca84;
+
+
+
+
+}
+.container {
+    background-color: #ffffff;
+    display: grid;
+   align-items: center;
+   width: 30%;
+   height: 500px;
+  justify-content: center;
+
+
+}
+.all {
+display: grid;
+justify-content: center;
+align-items: center;
+
+}
+
+
+label,a{
+    margin: 0 auto;
+    display: block;
+}
+input{
+    width:100%;
+}
